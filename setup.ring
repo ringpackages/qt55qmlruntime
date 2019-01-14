@@ -1,7 +1,7 @@
 load "ziplib.ring"
 
 func main
-	? "Extracting File : bin.zip"
+	? "Extracting File : qml.zip"
 	cDir = CurrentDir()
 	chdir(exefolder()+"../bin")
 	zip_extract_allfiles("qml.zip","../bin")

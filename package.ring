@@ -15,8 +15,8 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "ringzip",
+			:version = "1.0",
 			:providerusername = ""
 		]
 	],
